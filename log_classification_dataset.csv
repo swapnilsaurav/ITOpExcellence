@@ -1,0 +1,1001 @@
+Timestamp,LogLevel,Service,Message,Label
+2024-11-26 16:26:31.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-11-26 16:52:23.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-11-26 17:23:05.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-11-26 17:40:06.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-11-26 20:51:18.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-11-26 20:54:34.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-11-26 21:06:36.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-11-26 21:23:41.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-11-26 21:50:13.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-11-26 22:22:50.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-11-26 23:51:09.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-11-26 23:59:19.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-11-27 00:24:48.324029,WARNING,DiskService,Disk write error,disk failure
+2024-11-27 01:35:00.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-11-27 01:58:33.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-11-27 02:19:36.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-11-27 03:07:00.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-11-27 04:08:41.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-11-27 04:44:19.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-11-27 05:56:16.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-11-27 06:35:50.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-11-27 07:32:14.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-11-27 08:34:18.324029,WARNING,DiskService,Disk write error,disk failure
+2024-11-27 10:46:01.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-11-27 11:23:32.324029,ERROR,DiskService,Disk write error,disk failure
+2024-11-27 11:56:29.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-11-27 12:30:27.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-11-27 13:35:33.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-11-27 13:40:45.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-27 14:01:54.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-11-27 14:39:17.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-11-27 14:47:06.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-11-27 14:59:17.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-11-27 17:20:51.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-11-27 17:54:40.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-11-27 18:04:21.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-11-27 18:08:57.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-11-27 18:34:12.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-11-27 19:20:31.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-11-27 19:20:46.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-11-27 20:31:13.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 00:26:38.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-11-28 00:32:54.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-11-28 01:24:54.324029,WARNING,AuthService,Token expired,authentication failure
+2024-11-28 01:26:59.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-11-28 01:50:12.324029,INFO,DiskService,Disk read delay,disk failure
+2024-11-28 02:32:51.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-11-28 02:33:19.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-11-28 02:34:25.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-11-28 02:42:08.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-11-28 03:13:30.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-11-28 03:23:49.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-11-28 03:53:28.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-11-28 04:26:28.324029,WARNING,NetworkService,High latency observed,network failure
+2024-11-28 05:40:47.324029,ERROR,DiskService,Disk write error,disk failure
+2024-11-28 06:14:41.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 07:32:35.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-11-28 08:46:36.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-11-28 09:29:30.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 09:31:23.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-11-28 09:53:25.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-28 11:02:29.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 11:16:05.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-11-28 11:32:41.324029,ERROR,AuthService,Token expired,authentication failure
+2024-11-28 12:50:47.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-11-28 13:24:51.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-11-28 13:28:10.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 13:32:11.324029,INFO,NetworkService,High latency observed,network failure
+2024-11-28 14:11:36.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-11-28 14:35:08.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-11-28 16:13:44.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-11-28 16:19:52.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-11-28 16:51:04.324029,ERROR,DiskService,Disk write error,disk failure
+2024-11-28 17:33:19.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-11-28 18:43:05.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-11-28 19:56:04.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-11-28 20:23:55.324029,ERROR,DiskService,Disk write error,disk failure
+2024-11-28 21:46:17.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-11-28 22:33:00.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-11-28 23:26:11.324029,WARNING,DiskService,Disk write error,disk failure
+2024-11-28 23:38:39.324029,INFO,DiskService,Disk read delay,disk failure
+2024-11-28 23:52:17.324029,WARNING,AuthService,Token expired,authentication failure
+2024-11-29 00:01:53.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-11-29 00:09:37.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-11-29 00:33:16.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-11-29 00:54:29.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-11-29 00:56:49.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-29 03:48:31.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-11-29 08:59:32.324029,ERROR,NetworkService,High latency observed,network failure
+2024-11-29 09:20:58.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-11-29 09:26:09.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-11-29 11:23:26.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-11-29 12:46:45.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-11-29 13:48:46.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-11-29 14:28:40.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-11-29 14:36:21.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-11-29 15:07:02.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-11-29 15:12:18.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-11-29 15:45:21.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-29 15:53:56.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-11-29 17:59:00.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-11-29 18:52:35.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-11-29 19:30:12.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-11-29 20:01:06.324029,INFO,AuthService,Token expired,authentication failure
+2024-11-29 21:36:53.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-11-29 22:05:14.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-11-29 22:20:57.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-11-30 00:29:00.324029,INFO,DiskService,Disk write error,disk failure
+2024-11-30 00:48:21.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-11-30 00:52:39.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-11-30 01:24:35.324029,INFO,AuthService,Token expired,authentication failure
+2024-11-30 01:31:53.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-11-30 02:04:53.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-11-30 02:50:49.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-11-30 02:57:34.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-11-30 03:11:10.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-11-30 03:42:08.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-11-30 03:46:02.324029,WARNING,AuthService,Token expired,authentication failure
+2024-11-30 03:55:10.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-11-30 05:02:26.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-11-30 05:36:58.324029,WARNING,NetworkService,High latency observed,network failure
+2024-11-30 06:08:44.324029,INFO,NetworkService,High latency observed,network failure
+2024-11-30 07:37:33.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-11-30 08:25:41.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-11-30 08:27:49.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-11-30 09:01:50.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-11-30 10:28:18.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-11-30 11:25:03.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-11-30 11:36:26.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-11-30 11:43:50.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-11-30 11:52:14.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-11-30 12:22:25.324029,ERROR,AuthService,Token expired,authentication failure
+2024-11-30 13:37:30.324029,ERROR,NetworkService,High latency observed,network failure
+2024-11-30 13:48:28.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-11-30 13:53:41.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-11-30 13:54:22.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-11-30 14:25:45.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-30 15:00:43.324029,ERROR,NetworkService,High latency observed,network failure
+2024-11-30 16:01:02.324029,INFO,NetworkService,High latency observed,network failure
+2024-11-30 16:21:30.324029,WARNING,NetworkService,High latency observed,network failure
+2024-11-30 17:11:00.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-11-30 17:20:56.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-11-30 17:51:13.324029,INFO,NetworkService,High latency observed,network failure
+2024-11-30 18:44:20.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-11-30 21:49:37.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-11-30 22:57:28.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-01 00:17:44.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-01 01:28:32.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-01 02:40:54.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-01 03:41:16.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-01 05:06:47.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-01 05:57:12.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-01 06:32:18.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-01 07:11:06.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-01 07:38:58.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-01 07:49:59.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-01 07:51:16.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-01 08:14:25.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-01 08:37:13.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-01 09:27:20.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-01 09:46:13.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-01 10:50:56.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-01 11:04:37.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-01 11:39:34.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-01 12:22:45.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-01 12:49:03.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-01 13:09:14.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-01 13:28:28.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-01 13:54:18.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-01 15:36:10.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-01 15:58:14.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-01 17:29:27.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-01 18:01:21.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-01 19:06:12.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-01 19:46:00.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-01 21:02:44.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-01 23:39:50.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-02 00:49:21.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-02 01:02:51.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-02 01:09:42.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-02 01:29:40.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-02 02:41:40.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-02 03:01:47.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-02 03:57:05.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-02 05:13:34.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-02 06:16:53.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-02 06:36:15.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-02 07:21:52.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-02 07:54:19.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-02 08:19:10.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-02 08:28:05.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-02 11:12:43.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-02 11:48:27.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-02 14:08:23.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-02 14:31:31.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-02 15:44:24.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-02 16:01:24.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-02 16:12:38.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-02 17:11:23.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-02 18:43:22.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-02 18:43:23.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-02 19:52:44.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-02 19:53:31.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-02 20:09:25.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-02 22:27:30.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-02 22:33:54.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-02 23:07:04.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-02 23:27:04.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-02 23:44:57.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-03 01:28:54.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-03 01:45:30.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-03 02:12:54.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-03 03:07:20.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-03 03:57:57.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-03 04:01:42.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-03 04:07:40.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-03 04:31:40.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-03 05:13:05.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-03 06:10:46.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-03 07:08:00.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-03 07:25:08.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-03 08:27:20.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-03 08:35:28.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-03 08:51:33.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-03 10:27:59.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-03 11:58:43.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-03 13:39:19.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-03 13:54:06.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-03 14:03:53.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-03 14:31:43.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-03 14:46:11.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-03 16:54:03.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-03 17:03:34.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-03 17:48:13.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-03 18:39:34.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-03 19:38:06.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-03 19:41:36.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-03 20:19:58.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-03 22:00:30.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-03 22:45:53.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-03 22:48:20.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-03 23:28:07.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-03 23:43:42.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-03 23:48:44.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-03 23:51:16.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-04 02:15:49.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-04 02:22:56.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-04 02:56:56.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-04 02:57:11.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-04 03:05:08.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-04 04:25:55.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-04 04:43:08.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-04 05:27:30.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-04 06:07:26.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-04 07:11:48.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-04 08:05:12.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-04 08:12:34.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-04 08:21:22.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-04 08:51:17.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-04 08:57:31.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-04 09:42:06.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-04 09:58:59.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-04 10:21:48.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-04 10:52:58.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-04 11:20:44.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-04 11:39:04.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-04 12:53:07.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-04 13:14:52.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-04 13:41:43.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-04 13:42:31.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-04 14:59:55.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-04 15:56:16.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-04 17:00:40.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-04 17:13:52.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-04 19:36:03.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-04 19:41:50.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-04 20:12:18.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-04 20:23:03.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-04 20:41:02.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-04 21:36:57.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-04 22:21:57.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-04 23:30:14.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-05 02:17:58.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-05 03:11:17.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-05 03:23:22.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-05 05:14:55.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-05 05:27:31.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-05 06:10:09.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-05 07:31:33.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-05 07:41:01.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-05 08:24:44.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-05 08:49:16.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-05 09:18:43.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-05 10:12:19.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-05 13:37:07.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-05 14:04:08.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-05 14:06:14.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-05 16:38:21.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-05 17:20:26.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-05 18:02:33.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-05 19:03:08.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-05 20:43:16.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-05 21:24:57.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-05 22:26:21.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-05 23:12:19.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-05 23:25:34.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-05 23:35:13.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-06 00:36:05.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-06 01:41:28.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-06 03:05:09.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-06 03:25:37.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-06 03:42:33.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-06 03:46:27.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-06 05:00:59.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-06 06:12:52.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-06 06:37:23.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-06 06:40:18.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-06 06:47:48.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-06 07:23:20.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-06 07:38:28.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-06 07:49:14.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-06 08:06:26.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-06 08:39:03.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-06 08:41:27.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-06 10:01:47.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-06 10:04:25.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-06 13:52:33.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-06 15:04:09.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-06 15:14:39.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-06 17:37:08.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-06 18:07:00.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-06 19:13:04.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-06 20:31:32.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-06 20:41:59.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-06 21:28:40.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-06 22:43:43.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-06 22:45:34.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-07 02:13:53.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-07 02:16:54.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-07 02:32:07.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-07 03:50:31.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-07 03:50:55.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-07 04:47:11.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-07 04:52:02.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-07 07:43:31.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-07 08:39:58.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-07 08:47:17.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-07 09:55:13.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-07 12:16:48.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-07 12:50:15.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-07 12:51:19.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-07 12:51:39.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-07 13:42:52.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-07 13:52:38.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-07 15:05:24.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-07 15:08:15.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-07 15:27:50.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-07 16:17:39.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-07 17:30:57.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-07 17:40:30.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-07 19:07:37.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-07 19:26:27.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-07 19:32:25.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-07 19:40:21.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-07 20:16:27.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-07 20:50:30.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-07 21:20:28.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-07 22:01:19.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-07 22:02:37.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-07 23:29:24.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-08 00:42:14.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-08 00:50:33.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-08 01:08:50.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-08 01:12:40.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-08 01:21:22.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-08 02:14:49.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-08 02:47:13.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-08 02:59:58.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-08 04:21:10.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-08 06:43:54.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-08 07:00:42.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-08 07:25:08.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-08 07:40:17.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-08 10:02:10.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-08 10:33:55.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-08 10:55:02.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-08 11:48:19.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-08 11:57:03.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-08 12:25:08.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-08 16:13:35.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-08 16:21:24.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-08 17:09:13.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-08 17:22:50.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-08 18:16:35.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-08 19:34:35.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-08 20:33:46.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-08 21:22:01.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-08 22:49:32.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-08 22:55:27.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-09 01:14:42.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-09 01:25:09.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-09 03:32:56.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-09 04:10:03.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-09 04:21:29.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-09 04:41:28.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-09 04:42:31.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-09 06:27:21.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-09 07:03:11.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-09 07:21:06.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-09 08:21:36.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-09 08:58:10.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-09 09:59:21.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-09 10:13:09.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-09 12:08:25.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-09 12:18:52.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-09 12:30:23.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-09 13:30:41.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-09 14:27:18.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-09 14:28:24.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-09 15:06:24.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-09 16:55:10.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-09 16:57:31.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-09 17:17:17.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-09 17:48:40.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-09 18:12:02.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-09 19:17:28.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-09 20:11:11.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-09 20:59:24.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-09 21:31:57.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-09 21:52:54.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-09 22:38:17.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-09 22:56:41.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-09 23:07:29.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-09 23:18:32.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-09 23:33:04.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-10 01:25:29.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-10 02:15:41.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-10 02:35:49.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-10 02:43:55.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-10 03:33:57.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-10 04:04:13.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-10 04:25:16.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-10 05:34:56.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-10 06:00:33.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-10 06:18:44.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-10 09:42:55.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-10 10:34:04.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-10 11:08:21.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-10 12:00:37.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-10 13:13:20.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-10 13:16:08.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-10 13:23:48.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-10 13:56:27.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-10 14:39:50.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-10 15:03:09.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-10 16:16:06.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-10 17:00:12.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-10 17:07:34.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-10 17:40:22.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-10 17:43:00.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-10 18:42:21.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-10 19:13:25.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-10 19:31:24.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-10 20:25:01.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-10 20:38:23.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-10 21:15:20.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-10 21:31:04.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-11 00:45:38.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-11 03:11:41.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-11 04:22:30.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-11 05:11:24.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-11 05:38:48.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-11 05:53:31.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-11 06:23:39.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-11 06:58:27.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-11 07:24:05.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-11 07:58:04.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-11 08:41:15.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-11 08:47:07.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-11 08:54:52.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-11 09:06:05.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-11 09:15:21.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-11 09:40:59.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-11 09:56:36.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-11 10:44:11.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-11 11:31:46.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-11 13:15:50.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-11 15:09:39.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-11 16:47:03.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-11 16:49:23.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-11 18:38:36.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-11 20:36:01.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-11 21:49:11.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-11 22:20:16.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-11 22:43:52.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-11 22:50:21.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-11 23:17:02.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-11 23:20:15.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-12 00:19:04.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-12 01:07:27.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-12 01:35:21.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-12 01:45:58.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-12 02:43:02.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-12 02:54:37.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-12 03:50:04.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-12 04:05:10.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-12 04:09:44.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-12 06:58:36.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-12 07:12:11.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-12 09:13:38.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-12 09:17:12.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-12 10:26:13.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-12 11:17:16.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-12 11:32:10.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-12 12:05:34.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-12 12:21:43.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-12 12:58:23.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-12 14:01:53.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-12 15:34:31.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-12 16:05:04.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-12 16:05:05.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-12 17:38:38.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-12 17:44:51.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-12 18:59:09.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-12 19:55:29.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-12 20:38:12.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-12 20:40:10.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-12 21:12:17.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-12 23:16:35.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-13 01:01:16.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-13 01:28:47.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-13 03:20:20.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-13 03:54:39.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-13 04:01:44.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-13 04:57:11.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-13 05:57:52.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-13 06:32:38.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-13 07:38:30.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-13 08:32:04.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-13 08:52:59.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-13 09:39:47.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-13 10:10:08.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-13 10:33:39.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-13 10:55:36.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-13 11:06:58.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-13 11:50:03.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-13 12:37:40.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-13 12:37:58.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-13 13:00:35.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-13 13:09:16.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-13 13:17:59.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-13 13:20:04.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-13 13:48:10.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-13 14:57:35.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-13 16:20:31.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-13 17:15:53.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-13 18:27:42.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-13 18:35:55.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-13 18:47:47.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-13 19:21:24.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-13 20:27:18.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-13 20:51:13.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-13 21:15:17.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-13 22:15:44.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-13 22:41:02.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-13 23:25:39.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-14 00:40:38.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-14 01:22:28.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-14 02:16:05.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-14 04:19:22.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-14 04:28:47.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-14 04:47:26.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-14 05:15:19.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-14 05:56:14.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-14 09:04:01.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-14 10:53:09.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-14 11:05:23.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-14 11:18:23.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-14 11:41:53.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-14 12:01:29.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-14 12:28:15.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-14 12:55:18.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-14 13:30:21.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-14 15:08:20.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-14 16:05:37.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-14 16:44:35.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-14 17:13:34.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-14 17:15:01.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-14 17:55:10.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-14 17:59:17.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-14 18:44:30.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-14 18:54:24.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-14 18:59:52.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-14 19:36:16.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-14 19:36:45.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-14 19:37:55.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-14 20:25:43.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-14 21:28:13.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-14 23:13:58.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-15 01:14:11.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-15 01:44:18.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-15 01:51:36.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-15 02:09:27.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-15 02:12:42.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-15 02:18:11.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-15 02:53:44.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-15 03:49:51.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-15 03:51:26.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-15 04:45:31.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-15 05:10:00.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-15 05:31:34.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-15 05:50:10.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-15 06:20:35.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-15 08:20:10.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-15 08:41:12.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-15 08:47:58.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-15 09:37:18.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-15 09:45:44.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-15 10:00:11.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-15 11:07:51.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-15 11:46:56.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-15 12:08:07.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-15 13:32:41.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-15 14:03:00.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-15 14:11:57.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-15 14:21:49.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-15 14:30:21.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-15 15:11:22.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-15 15:16:55.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-15 15:35:43.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-15 16:17:27.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-15 17:09:04.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-15 18:24:08.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-15 18:30:11.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-15 19:54:38.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-15 20:07:51.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-15 21:08:01.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-15 21:14:02.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-15 23:54:02.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-16 01:31:58.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-16 02:01:26.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-16 02:10:37.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-16 02:55:33.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-16 03:33:25.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-16 04:07:39.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-16 04:50:04.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-16 05:25:07.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-16 08:37:46.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-16 09:29:30.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-16 09:50:38.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-16 10:01:39.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-16 10:27:00.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-16 11:06:14.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-16 11:15:59.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-16 11:42:23.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-16 12:33:10.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-16 12:42:00.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-16 13:02:17.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-16 13:09:59.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-16 13:35:30.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-16 15:30:12.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-16 15:47:59.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-16 18:42:50.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-16 18:46:18.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-16 20:06:11.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-16 20:16:10.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-16 22:08:11.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-16 22:10:40.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-16 22:38:59.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-17 00:24:16.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-17 00:45:13.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-17 01:14:29.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-17 01:49:08.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-17 03:40:05.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-17 04:51:15.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-17 04:57:59.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-17 05:11:53.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-17 05:39:29.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-17 06:13:29.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-17 06:38:34.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-17 06:49:50.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-17 06:57:37.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-17 07:23:39.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-17 07:55:42.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-17 09:34:03.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-17 09:58:22.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-17 10:08:07.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-17 10:51:37.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-17 12:16:45.324029,ERROR,NetworkService,High latency observed,network failure
+2024-12-17 13:58:00.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-17 13:58:31.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-17 14:47:59.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-17 15:27:22.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-17 15:37:51.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-17 16:46:02.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-17 17:00:16.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-17 17:36:40.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-17 18:57:25.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-17 19:11:42.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-17 19:26:54.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-17 20:51:54.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-17 21:18:53.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-17 21:56:03.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-17 23:51:37.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-17 23:57:13.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-18 00:00:17.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-18 00:15:07.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-18 00:28:25.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-18 00:30:50.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-18 00:34:14.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-18 01:48:59.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-18 02:45:00.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-18 03:25:30.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-18 03:47:51.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-18 04:16:33.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-18 06:14:22.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-18 06:56:19.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-18 07:32:08.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-18 08:45:28.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-18 09:35:36.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-18 10:15:54.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-18 10:24:00.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-18 11:12:40.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-18 11:49:36.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-18 15:43:32.324029,ERROR,CacheService,Cache miss ratio high,cache issue
+2024-12-18 15:53:43.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-18 18:59:53.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-18 20:52:34.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-18 21:31:12.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-18 21:48:05.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-18 22:06:28.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-18 22:38:50.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-18 22:41:32.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-18 23:01:59.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-18 23:57:05.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-19 00:37:39.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-19 01:00:49.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-19 02:29:38.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-19 02:31:43.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-19 02:40:16.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-19 03:05:47.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-19 03:48:02.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-19 04:39:02.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-19 05:40:06.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-19 05:48:17.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-19 06:56:48.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-19 07:25:11.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-19 08:47:26.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-19 08:59:13.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-19 09:01:16.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-19 09:12:31.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-19 09:48:40.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-19 10:00:22.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-19 10:05:04.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-19 11:34:27.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-19 11:43:49.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-19 12:14:57.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-19 13:01:18.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-19 14:46:17.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-19 15:16:27.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-19 15:45:55.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-19 16:28:39.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-19 17:33:29.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-19 17:45:54.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-19 17:49:15.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-19 17:50:26.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-19 17:58:17.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-19 18:11:29.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-19 18:26:04.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-19 19:48:30.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-19 19:50:08.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-19 20:00:39.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-19 20:08:50.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-19 21:16:27.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-19 22:22:35.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-19 23:21:47.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-20 00:56:02.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-20 01:33:52.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-20 02:21:18.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-20 02:59:34.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-20 03:00:39.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-20 03:15:00.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-20 03:48:52.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-20 04:34:53.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-20 05:17:17.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-20 08:02:39.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-20 08:13:17.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-20 10:19:47.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-20 10:26:24.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-20 10:49:26.324029,ERROR,DatabaseService,Query execution timeout,database failure
+2024-12-20 11:12:04.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-20 11:39:49.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-20 12:21:32.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-20 12:53:02.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-20 13:07:41.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-20 13:09:19.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-20 14:50:20.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-20 15:34:53.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-20 15:45:15.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-20 18:47:29.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-20 19:26:30.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-20 20:12:24.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-20 21:34:17.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-20 22:07:04.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-20 22:12:31.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-20 22:46:55.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-20 22:51:45.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-20 23:14:30.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-20 23:38:42.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-21 00:02:50.324029,ERROR,DatabaseService,Database unreachable,database failure
+2024-12-21 00:17:06.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-21 00:46:06.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-21 01:53:36.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-21 02:33:50.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-21 02:41:52.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-21 03:17:28.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-21 03:44:29.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-21 03:55:58.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-21 04:41:21.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-21 05:13:48.324029,INFO,AuthService,Token expired,authentication failure
+2024-12-21 06:21:48.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-21 06:55:47.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-21 07:12:59.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-21 07:48:36.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-21 08:40:50.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-21 08:46:06.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-21 09:29:27.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-21 10:01:01.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-21 10:35:12.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-21 11:41:15.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-21 13:30:48.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-21 13:58:49.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-21 15:33:18.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-21 15:40:08.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-21 16:04:28.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-21 16:44:07.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-21 17:40:50.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-21 18:23:55.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-21 18:39:19.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-21 19:08:09.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-21 22:58:44.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-21 23:12:01.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-21 23:48:08.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-22 00:13:15.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-22 00:32:20.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-22 01:31:41.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-22 02:16:04.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-22 02:30:09.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-22 02:32:12.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-22 02:44:23.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-22 03:11:46.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-22 03:36:09.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-22 03:37:47.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-22 05:04:44.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-22 05:21:14.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-22 05:22:33.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-22 05:33:33.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-22 06:00:24.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-22 06:22:12.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-22 06:41:34.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-22 07:14:27.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-22 09:35:59.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-22 10:06:51.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-22 13:24:52.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-22 13:43:58.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-22 13:46:21.324029,DEBUG,DatabaseService,Query execution timeout,database failure
+2024-12-22 14:27:30.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-22 15:45:19.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-22 17:07:10.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-22 17:25:59.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-22 19:25:51.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-22 20:06:02.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-22 20:45:17.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-23 01:09:12.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-23 01:17:01.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-23 02:59:54.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-23 03:02:29.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-23 03:17:07.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-23 03:22:42.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-23 03:59:56.324029,INFO,AuthService,User authentication failed,authentication failure
+2024-12-23 04:26:32.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-23 04:45:19.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-23 07:40:01.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-23 08:02:54.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-23 09:12:42.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-23 09:14:30.324029,WARNING,DatabaseService,Query execution timeout,database failure
+2024-12-23 09:27:13.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-23 09:52:59.324029,ERROR,DatabaseService,Connection pool exhausted,database failure
+2024-12-23 10:16:18.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-23 10:33:59.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-23 10:58:36.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-23 12:50:09.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-23 12:57:10.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-23 13:56:52.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-23 14:03:27.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-23 14:46:14.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-23 15:41:44.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-23 17:01:39.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-23 18:09:31.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-23 18:11:27.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-23 18:17:01.324029,DEBUG,CacheService,Cache miss ratio high,cache issue
+2024-12-23 19:24:12.324029,ERROR,DiskService,Disk read delay,disk failure
+2024-12-23 21:32:45.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-23 22:05:30.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-23 22:09:35.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-23 23:45:35.324029,ERROR,NetworkService,Connection timed out,network failure
+2024-12-24 00:19:47.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-24 00:22:11.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-24 01:12:01.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-24 01:28:58.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-24 02:27:07.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-24 02:42:14.324029,DEBUG,DiskService,Disk usage at critical level,disk failure
+2024-12-24 03:34:03.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-24 04:26:56.324029,INFO,AuthService,Failed login attempt,authentication failure
+2024-12-24 05:11:05.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-24 05:26:21.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-24 05:35:41.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-24 06:17:12.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-24 06:19:55.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-24 07:34:28.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-24 07:35:27.324029,ERROR,AuthService,User authentication failed,authentication failure
+2024-12-24 08:42:09.324029,ERROR,AuthService,Token expired,authentication failure
+2024-12-24 09:26:07.324029,INFO,CacheService,Cache miss ratio high,cache issue
+2024-12-24 09:37:10.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-24 10:29:21.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-24 10:59:59.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-24 11:02:41.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-24 11:11:56.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-24 11:58:12.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-24 12:17:38.324029,WARNING,NetworkService,Connection timed out,network failure
+2024-12-24 12:27:51.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-24 13:59:09.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-24 17:42:33.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-24 17:49:11.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-24 18:07:53.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-24 18:43:57.324029,INFO,DatabaseService,Database unreachable,database failure
+2024-12-24 19:32:17.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-24 20:44:14.324029,INFO,DatabaseService,Connection pool exhausted,database failure
+2024-12-24 22:46:05.324029,DEBUG,CacheService,Cache eviction spike,cache issue
+2024-12-24 22:59:31.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-25 00:55:48.324029,INFO,DiskService,Disk usage at critical level,disk failure
+2024-12-25 02:12:07.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-25 02:40:44.324029,INFO,CacheService,Cache eviction spike,cache issue
+2024-12-25 02:49:28.324029,WARNING,NetworkService,Packet loss detected,network failure
+2024-12-25 03:28:05.324029,WARNING,DiskService,Disk read delay,disk failure
+2024-12-25 04:00:50.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-25 05:07:00.324029,DEBUG,AuthService,Token expired,authentication failure
+2024-12-25 05:33:27.324029,INFO,NetworkService,Packet loss detected,network failure
+2024-12-25 05:49:18.324029,WARNING,CacheService,Cache read/write delay,cache issue
+2024-12-25 07:20:38.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-25 07:42:39.324029,INFO,DiskService,Disk read delay,disk failure
+2024-12-25 07:52:27.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-25 08:42:10.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-25 10:06:21.324029,WARNING,AuthService,Token expired,authentication failure
+2024-12-25 10:11:56.324029,DEBUG,AuthService,Failed login attempt,authentication failure
+2024-12-25 10:43:11.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-25 10:56:28.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-25 11:11:51.324029,WARNING,DiskService,Disk usage at critical level,disk failure
+2024-12-25 11:39:30.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-25 12:19:03.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-25 12:46:20.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-25 14:13:26.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-25 14:30:01.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-25 15:38:17.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-25 15:49:02.324029,DEBUG,NetworkService,High latency observed,network failure
+2024-12-25 15:55:18.324029,WARNING,DatabaseService,Database unreachable,database failure
+2024-12-25 16:02:20.324029,WARNING,NetworkService,High latency observed,network failure
+2024-12-25 16:03:39.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-25 16:53:24.324029,DEBUG,DiskService,Disk write error,disk failure
+2024-12-25 17:14:54.324029,ERROR,NetworkService,Packet loss detected,network failure
+2024-12-25 17:21:48.324029,WARNING,CacheService,Cache miss ratio high,cache issue
+2024-12-25 18:05:15.324029,WARNING,CacheService,Cache eviction spike,cache issue
+2024-12-25 18:27:37.324029,WARNING,AuthService,User authentication failed,authentication failure
+2024-12-25 18:50:01.324029,DEBUG,AuthService,User authentication failed,authentication failure
+2024-12-25 19:39:04.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-25 20:38:57.324029,INFO,DatabaseService,Query execution timeout,database failure
+2024-12-25 22:43:33.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-25 23:26:52.324029,WARNING,DatabaseService,Connection pool exhausted,database failure
+2024-12-25 23:34:48.324029,WARNING,DiskService,Disk write error,disk failure
+2024-12-26 00:35:33.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-26 00:38:17.324029,DEBUG,NetworkService,Packet loss detected,network failure
+2024-12-26 00:54:33.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-26 01:51:04.324029,ERROR,CacheService,Cache read/write delay,cache issue
+2024-12-26 05:03:25.324029,INFO,DiskService,Disk write error,disk failure
+2024-12-26 05:23:52.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-26 05:27:14.324029,ERROR,CacheService,Cache eviction spike,cache issue
+2024-12-26 07:01:45.324029,ERROR,DiskService,Disk usage at critical level,disk failure
+2024-12-26 07:06:38.324029,INFO,NetworkService,High latency observed,network failure
+2024-12-26 07:20:52.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-26 07:42:35.324029,DEBUG,NetworkService,Connection timed out,network failure
+2024-12-26 08:31:56.324029,ERROR,DiskService,Disk write error,disk failure
+2024-12-26 10:01:46.324029,ERROR,AuthService,Failed login attempt,authentication failure
+2024-12-26 10:03:32.324029,INFO,NetworkService,Connection timed out,network failure
+2024-12-26 10:35:46.324029,DEBUG,CacheService,Cache read/write delay,cache issue
+2024-12-26 11:00:02.324029,WARNING,AuthService,Failed login attempt,authentication failure
+2024-12-26 11:58:45.324029,DEBUG,DatabaseService,Database unreachable,database failure
+2024-12-26 12:41:19.324029,DEBUG,DiskService,Disk read delay,disk failure
+2024-12-26 12:55:26.324029,INFO,CacheService,Cache read/write delay,cache issue
+2024-12-26 13:04:05.324029,DEBUG,DatabaseService,Connection pool exhausted,database failure
+2024-12-26 14:16:46.324029,INFO,DatabaseService,Query execution timeout,database failure
